@@ -1,3 +1,5 @@
+alias lla='ls -la'
+
 # Hello Messsage --------------------------------------------------
 echo -e "Kernel Information: " `uname -smr`
 echo -e "`bash --version`"
