@@ -11,3 +11,4 @@ fi
 set -o vi
 
 export PATH=$HOME/.julia/bin:$PATH
+
